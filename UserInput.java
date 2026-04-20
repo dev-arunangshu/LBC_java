@@ -7,5 +7,6 @@ public class UserInput {
         
         System.out.println("Hello "+ name);
 
+        sc.close();
     }
 }
