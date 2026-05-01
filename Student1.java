@@ -8,7 +8,7 @@ class Student {
         name="arunangshu";
         roll=1234;
     }
-    
+
      void display(){
         System.out.println("the name is "+ name + " and roll is "+roll);
     }
